@@ -11,7 +11,7 @@ namespace Tyuiu.GoryaevTT.Sprint6.Task4.V18.Lib
             {
                 result[count] = Math.Round(((2 * i - 3) / (Math.Cos(i) + i)) + 5, 2);
                 count++;
-            }
+            }   
             return result;
         }
     }
